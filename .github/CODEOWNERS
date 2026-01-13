@@ -1,0 +1,24 @@
+# Orb AI Limited - Code Owners
+# These owners will be requested for review when someone opens a pull request.
+
+# Default owners for everything in the repo
+* @darrylkavanagh-ux
+
+# Verification Engine
+/engines/verification/ @darrylkavanagh-ux
+
+# Investigation Engine
+/engines/investigation/ @darrylkavanagh-ux
+
+# Shared code
+/shared/ @darrylkavanagh-ux
+
+# Documentation
+/docs/ @darrylkavanagh-ux
+*.md @darrylkavanagh-ux
+
+# CI/CD and configuration
+/.github/ @darrylkavanagh-ux
+*.json @darrylkavanagh-ux
+*.yml @darrylkavanagh-ux
+*.yaml @darrylkavanagh-ux
